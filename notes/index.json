@@ -1,0 +1,14 @@
+[
+  {"id":"01", "title":"Python 简介", "file":"01-python-intro.md"},
+  {"id":"02", "title":"安装 Python", "file":"02-install-python.md"},
+  {"id":"03", "title":"第一个 Python 程序", "file":"03-first-python-program.md"},
+  {"id":"04", "title":"Python 基础", "file":"04-python-basics.md"},
+  {"id":"05", "title":"字符串和编码", "file":"05-strings-and-encoding.md"},
+  {"id":"06", "title":"使用 list 和 tuple", "file":"06-list-and-tuple.md"},
+  {"id":"07", "title":"条件判断", "file":"07-conditionals.md"},
+  {"id":"08", "title":"循环", "file":"08-loops.md"},
+  {"id":"09", "title":"使用 dict 和 set", "file":"09-dict-and-set.md"},
+  {"id":"10", "title":"函数", "file":"10-functions.md"},
+  {"id":"11", "title":"函数进阶", "file":"11-advanced-functions.md"},
+  {"id":"12", "title":"模块", "file":"12-modules.md"}
+]
